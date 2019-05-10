@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=StarUML
+Comment=Support agile and concise modeling
+Exec=/opt/staruml/StarUML-x86_64.AppImage
+Icon=/opt/staruml/icons/staruml-icon.png
+Terminal=false
+Type=Application
+Categories=GNOME;
+StartupNotify=true
